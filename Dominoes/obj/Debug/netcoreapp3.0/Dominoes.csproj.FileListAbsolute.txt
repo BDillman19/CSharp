@@ -1,0 +1,11 @@
+C:\Users\bryce\Documents\GitHub\CSharp\Dominoes\bin\Debug\netcoreapp3.0\Dominoes.exe
+C:\Users\bryce\Documents\GitHub\CSharp\Dominoes\bin\Debug\netcoreapp3.0\Dominoes.deps.json
+C:\Users\bryce\Documents\GitHub\CSharp\Dominoes\bin\Debug\netcoreapp3.0\Dominoes.runtimeconfig.json
+C:\Users\bryce\Documents\GitHub\CSharp\Dominoes\bin\Debug\netcoreapp3.0\Dominoes.runtimeconfig.dev.json
+C:\Users\bryce\Documents\GitHub\CSharp\Dominoes\bin\Debug\netcoreapp3.0\Dominoes.dll
+C:\Users\bryce\Documents\GitHub\CSharp\Dominoes\bin\Debug\netcoreapp3.0\Dominoes.pdb
+C:\Users\bryce\Documents\GitHub\CSharp\Dominoes\obj\Debug\netcoreapp3.0\Dominoes.csprojAssemblyReference.cache
+C:\Users\bryce\Documents\GitHub\CSharp\Dominoes\obj\Debug\netcoreapp3.0\Dominoes.AssemblyInfoInputs.cache
+C:\Users\bryce\Documents\GitHub\CSharp\Dominoes\obj\Debug\netcoreapp3.0\Dominoes.AssemblyInfo.cs
+C:\Users\bryce\Documents\GitHub\CSharp\Dominoes\obj\Debug\netcoreapp3.0\Dominoes.dll
+C:\Users\bryce\Documents\GitHub\CSharp\Dominoes\obj\Debug\netcoreapp3.0\Dominoes.pdb
